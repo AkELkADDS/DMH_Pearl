@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="a27c9903-5a2d-0444-475c-797e0c6812da"/>
+            <attribute id="Name" type="LSString" value="DMH_Pearl"/>
+            <attribute id="UUID" type="LSString" value="59672ce0-95cb-9445-eaec-0401fe3ca7b2"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

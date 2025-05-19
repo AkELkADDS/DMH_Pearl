@@ -1,0 +1,374 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+   Mon 05/19/2025  7:16:52.90 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Assets\Textures\Icons\CCIrons_PearlAssetsDMH_Atlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\1d661993-9429-482a-b4e0-b988eab9bd74.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\9e26e5c9-582f-45fa-8006-29b69674df55.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\b3780d4c-1c1a-49bd-b9fc-a69e9d77d999.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\b520825f-8f71-4d78-9df8-b5e3a89f2fe7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\c54e2972-03d3-4297-aec4-93dd8367170a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\c70220e0-f8b8-f54d-a280-8af38ff74d5f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\GUI\CCIrons_PearlAssetsDMH_Atlas.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 19 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 5 
+ 
+[LOG] Total files found across all folders: 31 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da to Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using destination: Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:16:57 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     687	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\meta.lsx100%  
+	    New File  		   3.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    3.20 m    3.20 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3358105000 Bytes/sec.
+   Speed :           192152.309 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:16:57 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da to "Editor\Mods"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using destination: Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:16:58 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   20501	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    20.0 k    20.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:16:58 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da to Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using destination: Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:00 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\meta.lsx100%  
+	    New File  		   3.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\GUI\metadata.lsf100%  
+	    New File  		    1636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    3.21 m    3.21 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           3368001000 Bytes/sec.
+   Speed :           192718.563 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:00 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da to Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using destination: Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:01 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14985	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    3364	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\GUI\CCIrons_PearlAssetsDMH_Atlas.lsx100%  
+	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\1d661993-9429-482a-b4e0-b988eab9bd74.lsf100%  
+	    New File  		    2591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\9e26e5c9-582f-45fa-8006-29b69674df55.lsf100%  
+	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\b3780d4c-1c1a-49bd-b9fc-a69e9d77d999.lsf100%  
+	    New File  		    2643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\b520825f-8f71-4d78-9df8-b5e3a89f2fe7.lsf100%  
+	    New File  		    2588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\c54e2972-03d3-4297-aec4-93dd8367170a.lsf100%  
+	    New File  		    1606	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Content\[PAK]_DMH_Pearl\c70220e0-f8b8-f54d-a280-8af38ff74d5f.lsf100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Assets\Textures\Icons\CCIrons_PearlAssetsDMH_Atlas.dds100%  
+	    New File  		  185456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.xml100%  
+	    New File  		  185712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.xml100%  
+	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2100%  
+	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.xml100%  
+	    New File  		  290176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2100%  
+	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.xml100%  
+	    New File  		   52000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.GR2100%  
+	    New File  		     205	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        17        17         1         0         0         0
+   Files :        19        19         0         0         0         0
+   Bytes :    1.32 m    1.32 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           138718900 Bytes/sec.
+   Speed :            7937.559 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:01 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 19 
+[DEBUG] Successfully copied files: 19 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 
+      Total files: 19 
+      Copied successfully: 19 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da to "Generated\Public"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[DEBUG] Using destination: Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:17:03 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+     Dest : C:\GIT_BG3\MOD_REPOS\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   52000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.GR2100%  
+	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2100%  
+	    New File  		  290176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2100%  
+	    New File  		  185456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.GR2100%  
+	    New File  		  185712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da\DurgeMH\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        10        10         1         0         0         0
+   Files :         5         5         0         0         0         0
+   Bytes :   979.9 k   979.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           250866000 Bytes/sec.
+   Speed :           14354.667 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:17:03 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 5 
+[DEBUG] Successfully copied files: 5 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da: 
+      Total files: 5 
+      Copied successfully: 5 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 19 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 5 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 31 
+[SUMMARY] Total files successfully copied: 62 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
